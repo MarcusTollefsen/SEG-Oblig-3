@@ -7,7 +7,7 @@ public class testing {
     @Test
     public void is_dividable_by_4_not_100()
     {
-        assertEquals(true, leapyear.isLeapYear(1920));
+        assertEquals(true, leapyear.isLeapYear(1921));
     }
 
     @Test
